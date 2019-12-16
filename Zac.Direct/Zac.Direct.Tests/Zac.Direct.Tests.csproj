@@ -13,6 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Zac.Direct.Data.SqlClient\Zac.Direct.Data.SqlClient.csproj" />
+    <ProjectReference Include="..\Zac.Direct.Data\Zac.Direct.Data.csproj" />
     <ProjectReference Include="..\Zac.Direct\Zac.Direct.csproj" />
   </ItemGroup>
 
