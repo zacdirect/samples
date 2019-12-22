@@ -348,3 +348,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Custom Rules
+## Wyam Build Results
+Zac.Direct.Website/output/
+Zac.Direct.Website/wwwroot/
+Zac.Direct.Website/config.wyam.dll
+Zac.Direct.Website/config.wyam.hash
+Zac.Direct.Website/config.wyam.packages.xml
